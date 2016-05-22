@@ -16,7 +16,8 @@
   ],
   "dependencies": {
     "marked": "~0.3.3",
-    "polymer": "Polymer/polymer#^1.1.0"
+    "polymer": "Polymer/polymer#^1.1.0",
+    "prism-element": "TimvdLippe/prism-element#prism-css-module"
   },
   "license": "https://polymer.github.io/LICENSE.txt",
   "main": "marked-element.html",
